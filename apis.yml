@@ -18,6 +18,8 @@ tags:
   - Organic
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-hain-celestial-group
   - type: Website
     url: https://www.hain-celestial-group.com
   - type: Investor Relations
