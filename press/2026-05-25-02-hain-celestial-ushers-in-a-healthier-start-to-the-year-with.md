@@ -1,7 +1,9 @@
 ---
 title: Hain Celestial Ushers in a Healthier Start to the Year with ...
 url: https://www.prnewswire.com/news-releases/hain-celestial-ushers-in-a-healthier-start-to-the-year-with-better-for-you-convenient-options-302344425.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hain Celestial Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
